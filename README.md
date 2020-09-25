@@ -8,4 +8,4 @@ Trained model will be attachhde in models folder and the model has to be trained
   <img src="https://miro.medium.com/max/1080/1*Yg7_TNQ1jx1zOzfiAnx8MA.png" width="350" align="left">
 </p>
 <br/>
-Trained model will be attachhde in models folder and the model has to be trained further to imrpove accuracy of next word prediction.
+
